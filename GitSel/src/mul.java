@@ -2,7 +2,8 @@
 public class mul {
 
 	public static void main(String[] args) {
-		System.out.println("Multiplication");
+	
+		System.out.println("Multi");
 
 	}
 
