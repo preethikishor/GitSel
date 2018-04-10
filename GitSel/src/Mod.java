@@ -2,7 +2,7 @@
 public class Mod {
 
 	public static void main(String[] args) {
-		System.out.println("modulus");
+		System.out.println("modulus a/b");
 
 	}
 
